@@ -43,6 +43,16 @@ desenvolvimento de software e resolução de problemas.
 
 ---
 
+## 📂 Alguns dos meus projetos
+
+* 🐍 **Academic-Projects-and-Activities**  
+  Projetos, exercícios e atividades desenvolvidos durante minha formação.
+
+* 🔧 **Oficina-Git**  
+  Repositório voltado para estudos de versionamento, branches e conflitos.
+
+---
+
 ## ✉️ Vamos nos conectar?
 * **LinkedIn:** www.linkedin.com/in/alice-da-cruz-justi-37580438a
 * **E-mail:** alicedacruzjusti@gmail.com
