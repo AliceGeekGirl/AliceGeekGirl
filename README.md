@@ -43,13 +43,10 @@ desenvolvimento de software e resolução de problemas.
 
 ---
 
-## 📂 Alguns dos meus projetos
+## 📂 Repositórios em destaque
 
-* 🐍 **Academic-Projects-and-Activities**  
-  Projetos, exercícios e atividades desenvolvidos durante minha formação.
-
-* 🔧 **Oficina-Git**  
-  Repositório voltado para estudos de versionamento, branches e conflitos.
+* 🐍 **Academic-Projects-and-Activities** — Projetos, exercícios e atividades desenvolvidos durante minha formação.
+* 🔧 **Oficina-Git** — Estudos de Git, versionamento, branches e conflitos.
 
 ---
 
