@@ -99,7 +99,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D12?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
 ![Git](https://img.shields.io/badge/Git-0D0D12?style=for-the-badge&logo=git&logoColor=FF69B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF69B4)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D0D12?style=for-the-badge&logo=visualstudiocode&logoColor=FF69B4)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D0D12?style=for-the-badge&logo=visual-studio-code&logoColor=FF69B4)
 
 </div>
 
