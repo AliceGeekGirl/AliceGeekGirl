@@ -87,7 +87,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D0D12?style=for-the-badge&logo=html5&logoColor=FF69B4)
-![CSS3](https://img.shields.io/badge/CSS3-0D0D12?style=for-the-badge&logo=css3&logoColor=FF69B4)
+![CSS](https://img.shields.io/badge/CSS-0D0D12?style=for-the-badge&logo=css3&logoColor=FF69B4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=FF69B4)
 
 </div>
