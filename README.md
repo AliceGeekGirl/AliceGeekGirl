@@ -141,25 +141,24 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 
 <td width="50%">
 
-<h3>🌡️ Monitoramento de Temperatura</h3>
+<h3>🌡️ Painel de Monitoramento e Controle de Temperatura</h3>
 
 <p>
 Interface web (Dashboard) desenvolvida para um projeto de
-<strong>monitoramento e controle de temperatura com ESP32</strong>.
+<strong>Monitoramento e Controle de Temperatura com ESP32</strong>.
 </p>
 
 <p>
-📁 <strong>Possui seu próprio repositório.</strong>
-</p>
-
-<p>
-🎨 Foco em <strong>UI/UX, organização do código web e experiência da interface</strong>,
-com dados simulados nesta primeira etapa.
+🎨 Foco no desenvolvimento da <strong>interface, organização do código web e experiência da interface (UI/UX)</strong>, utilizando dados simulados nesta primeira etapa.
 </p>
 
 <p>
 <strong>Tecnologias:</strong><br>
 🌐 HTML • 🎨 CSS • ⚡ JavaScript • 🟢 Node.js
+</p>
+
+<p>
+📁 <strong>Possui seu próprio repositório.</strong>
 </p>
 
 <a href="https://github.com/AliceGeekGirl/monitoramento-de-temperatura.">
