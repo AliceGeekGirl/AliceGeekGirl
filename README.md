@@ -98,39 +98,6 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D12?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
 ![Git](https://img.shields.io/badge/Git-0D0D12?style=for-the-badge&logo=git&logoColor=FF69B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF69B4)
-
-<a href="https://code.visualstudio.com/">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/FF69B4" height="28" alt="VS Code">
-</a>```markdown
-## 💻 Tecnologias
-
-### Linguagens
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D0D12?style=for-the-badge&logo=python&logoColor=FF69B4)
-![C++](https://img.shields.io/badge/C%2B%2B-0D0D12?style=for-the-badge&logo=cplusplus&logoColor=FF69B4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=FF69B4)
-
-</div>
-
-### Desenvolvimento Web
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-0D0D12?style=for-the-badge&logo=html5&logoColor=FF69B4)
-![CSS](https://img.shields.io/badge/CSS-0D0D12?style=for-the-badge&logo=css&logoColor=FF69B4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=FF69B4)
-
-</div>
-
-### Banco de dados e ferramentas
-
-<div align="center">
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D12?style=for-the-badge&logo=postgresql&logoColor=FF69B4)
-![Git](https://img.shields.io/badge/Git-0D0D12?style=for-the-badge&logo=git&logoColor=FF69B4)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF69B4)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D0D12?style=for-the-badge&logo=visual-studio-code&logoColor=FF69B4)
 
 </div>
