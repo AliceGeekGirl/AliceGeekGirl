@@ -335,8 +335,6 @@ Quero continuar explorando diferentes áreas do desenvolvimento, descobrir quais
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AliceGeekGirl&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=FF69B4&icon_color=FF69B4&text_color=F5F5F7&rank_icon=github&locale=pt-br" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceGeekGirl&layout=compact&hide_border=true&bg_color=0D0D12&title_color=FF69B4&text_color=F5F5F7&locale=pt-br" />
-
 </div>
 
 <br>
