@@ -136,7 +136,7 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 
 <p>🚧 <strong>Em desenvolvimento</strong></p>
 
-<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
+<a href="https://github.com/AliceGeekGirl/Projects-and-Activities/tree/main/ProofFile">
 <img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
