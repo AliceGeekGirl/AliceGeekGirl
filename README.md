@@ -146,6 +146,7 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 <p>
 Interface web (Dashboard) desenvolvida para um projeto de
 <strong>monitoramento e controle de temperatura com ESP32</strong>.
+📁 <strong>Possui seu próprio repositório.</strong>
 </p>
 
 <p>
