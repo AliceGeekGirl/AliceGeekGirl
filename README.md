@@ -212,16 +212,16 @@ Repositório voltado aos <strong>projetos e atividades desenvolvidos durante a g
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
 <h3>🔧 Oficina-Git</h3>
 
 <p>
-Repositório utilizado para praticar <strong>Git, versionamento, branches e resolução de conflitos</strong>.
+Repositório utilizado para praticar conceitos de Git e GitHub, versionamento e fluxo de trabalho.
 </p>
 
 <a href="https://github.com/AliceGeekGirl/Oficina-Git">
-<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20repositório-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
