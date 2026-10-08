@@ -122,13 +122,17 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 </p>
 
 <p>
-📁 <strong>Projeto desenvolvido dentro do repositório
-<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">Projects-and-Activities</a>.</strong>
+🔐 <strong>Foco:</strong> criar uma forma de registrar um contrato e permitir que sua integridade seja verificada posteriormente.
 </p>
 
 <p>
 <strong>Tecnologias exploradas:</strong><br>
 🐍 Python • 🗄️ PostgreSQL • 🌐 Web • ⛓️ Solana
+</p>
+
+<p>
+📁 <strong>Desenvolvido dentro do repositório
+<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">Projects-and-Activities</a>.</strong>
 </p>
 
 <p>🚧 <strong>Em desenvolvimento</strong></p>
@@ -144,12 +148,11 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 <h3>🌡️ Monitoramento de Temperatura</h3>
 
 <p>
-Interface web (Dashboard) desenvolvida para um projeto de
-<strong>Monitoramento e Controle de Temperatura com ESP32</strong>.
+Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento e Controle de Temperatura com ESP32</strong>.
 </p>
 
 <p>
-🎨 Foco no desenvolvimento da <strong>interface, organização do código web e experiência da interface</strong>, utilizando dados simulados nesta primeira etapa.
+🎨 <strong>Foco:</strong> desenvolver a interface, organizar o código web e trabalhar a experiência da interface (UI/UX), utilizando dados simulados nesta primeira etapa.
 </p>
 
 <p>
