@@ -113,7 +113,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>🌙 ProofFile</h3>
 
@@ -139,9 +139,9 @@ Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma soluçã
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🌡️ Painel de Monitoramento e Controle de Temperatura</h3>
+<h3>🌡️ Monitoramento de Temperatura</h3>
 
 <p>
 Interface web (Dashboard) desenvolvida para um projeto de
@@ -149,7 +149,7 @@ Interface web (Dashboard) desenvolvida para um projeto de
 </p>
 
 <p>
-🎨 Foco no desenvolvimento da <strong>interface, organização do código web e experiência da interface (UI/UX)</strong>, utilizando dados simulados nesta primeira etapa.
+🎨 Foco no desenvolvimento da <strong>interface, organização do código web e experiência da interface</strong>, utilizando dados simulados nesta primeira etapa.
 </p>
 
 <p>
