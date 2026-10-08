@@ -77,7 +77,6 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ![Python](https://img.shields.io/badge/Python-0D0D12?style=for-the-badge&logo=python&logoColor=FF69B4)
 ![C++](https://img.shields.io/badge/C%2B%2B-0D0D12?style=for-the-badge&logo=cplusplus&logoColor=FF69B4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0D12?style=for-the-badge&logo=javascript&logoColor=FF69B4)
 
 </div>
 
