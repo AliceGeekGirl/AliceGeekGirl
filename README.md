@@ -152,7 +152,7 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 </p>
 
 <p>
-🎨 <strong>Foco:</strong> desenvolver a interface, organizar o código web e trabalhar a experiência da interface (UI/UX), utilizando dados simulados nesta primeira etapa.
+🎨 <strong>Foco:</strong> desenvolver a interface, organizar o código web e trabalhar a experiência da interface, utilizando dados simulados nesta primeira etapa.
 </p>
 
 <p>
