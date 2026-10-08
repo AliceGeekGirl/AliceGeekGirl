@@ -106,52 +106,124 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ## 🚀 Projetos
 
-Aqui estão alguns dos projetos que fazem parte da minha jornada de aprendizado.
+### 🌙 Projetos em Destaque
+
+<div align="center">
 
 <table>
 <tr>
 
 <td width="50%">
 
-### 💗 Projects & Activities
+<h3>🌙 ProofFile</h3>
 
-Repositório com **projetos, exercícios e estudos** desenvolvidos ao longo da minha formação e aprendizado em tecnologia.
+<p>
+Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma solução para registrar e verificar a integridade de contratos.
+</p>
 
-**Principais temas:**
+<p>
+📁 <strong>Projeto desenvolvido dentro do repositório
+<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">Projects-and-Activities</a>.</strong>
+</p>
 
-- 🐍 Python
-- ⚙️ C++
-- 🗄️ SQL
-- 📚 Estudos e exercícios
-- 🧪 Experimentos
+<p>
+<strong>Tecnologias exploradas:</strong><br>
+🐍 Python • 🗄️ PostgreSQL • 🌐 Web • ⛓️ Solana
+</p>
+
+<p>🚧 <strong>Em desenvolvimento</strong></p>
 
 <a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
-<img src="https://img.shields.io/badge/Ver%20projeto%20→-FF69B4?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🌙 ProofFile
+<h3>🌡️ Monitoramento de Temperatura</h3>
 
-Projeto desenvolvido para um **hackathon**, explorando uma solução para registrar e verificar a integridade de contratos.
+<p>
+Interface web (Dashboard) desenvolvida para um projeto de
+<strong>monitoramento e controle de temperatura com ESP32</strong>.
+</p>
 
-A proposta combina desenvolvimento web, banco de dados e tecnologia blockchain.
+<p>
+🎨 Foco em <strong>UI/UX, organização do código web e experiência da interface</strong>,
+com dados simulados nesta primeira etapa.
+</p>
 
-**Tecnologias exploradas:**
+<p>
+<strong>Tecnologias:</strong><br>
+🌐 HTML • 🎨 CSS • ⚡ JavaScript • 🟢 Node.js
+</p>
 
-- 🐍 Python
-- 🗄️ PostgreSQL
-- 🌐 Web
-- ⛓️ Solana
-
-🚧 **Em desenvolvimento**
+<a href="https://github.com/AliceGeekGirl/monitoramento-de-temperatura.">
+<img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
 
 </tr>
 </table>
+
+</div>
+
+---
+
+### 📂 Repositórios Principais
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%">
+
+<h3>💗 Projects-and-Activities</h3>
+
+<p>
+Repositório que reúne <strong>projetos, estudos, exercícios e experimentos</strong> desenvolvidos ao longo da minha jornada em tecnologia.
+</p>
+
+<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
+<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%">
+
+<h3>🎓 College-Projects-and-Activities</h3>
+
+<p>
+Repositório voltado aos <strong>projetos e atividades desenvolvidos durante a graduação</strong>.
+</p>
+
+<a href="https://github.com/AliceGeekGirl/College-Projects-and-Activities">
+<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="33%">
+
+<h3>🔧 Oficina-Git</h3>
+
+<p>
+Repositório utilizado para praticar <strong>Git, versionamento, branches e resolução de conflitos</strong>.
+</p>
+
+<a href="https://github.com/AliceGeekGirl/Oficina-Git">
+<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
