@@ -183,16 +183,31 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-<h3>💗 Projects-and-Activities</h3>
+<h3>🌐 UniConnect</h3>
 
 <p>
-Repositório que reúne <strong>projetos, estudos, exercícios e experimentos</strong> desenvolvidos ao longo da minha jornada em tecnologia.
+Projeto acadêmico desenvolvido em equipe, propondo uma simulação de rede social voltada à comunidade universitária, com foco na interação e colaboração entre estudantes.
 </p>
 
-<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
-<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<p>
+🔐 <strong>Foco:</strong> desenvolver uma aplicação que simule funcionalidades como publicações, curtidas, comentários, perguntas e respostas, grupos de estudo e compartilhamento de materiais acadêmicos.
+</p>
+
+<p>
+<strong>Tecnologias:</strong><br>
+🗄️ SQL Server • 💻 SQL • 🛠️ SSMS • 🔀 Git e GitHub
+</p>
+
+<p>
+📁 <strong>Possui seu próprio repositório.</strong>
+</p>
+
+<p>🚧 <strong>Em desenvolvimento</strong></p>
+
+<a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">
+<img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </td>
