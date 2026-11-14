@@ -162,7 +162,8 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 </p>
 
 <p>
-📁 <strong>Possui seu próprio repositório.</strong>
+📁 <strong>Repositório próprio:</strong>
+<a href= "https://github.com/AliceGeekGirl/Monitoramento-de-temperatura.">Monitoramento-de-Temperatura</a>.
 </p>
 
 <a href="https://github.com/AliceGeekGirl/monitoramento-de-temperatura.">
