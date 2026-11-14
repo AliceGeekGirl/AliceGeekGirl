@@ -130,7 +130,7 @@ Projeto desenvolvido em equipe para a faculdade, simulando uma plataforma acadê
 </p>
 
 <p>
-📁 <strong>Possui seu próprio repositório.</strong>
+📁 <strong>Possui seu próprio repositório: https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes.</strong>
 </p>
 
 <p>🚧 <strong>Em desenvolvimento</strong></p>
