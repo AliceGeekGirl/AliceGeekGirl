@@ -117,27 +117,30 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 <h3>🌐 UniConnect</h3>
 
 <p>
-Projeto desenvolvido em equipe para a faculdade, simulando uma plataforma acadêmica que busca conectar estudantes e incentivar a colaboração nos estudos.
+Projeto acadêmico desenvolvido em equipe, simulando uma <strong>rede social voltada à comunidade universitária</strong>, com funcionalidades de interação e colaboração entre estudantes.
 </p>
 
 <p>
-🤝 <strong>Foco:</strong> desenvolver uma plataforma com funcionalidades de interação entre estudantes, compartilhamento de materiais, perguntas e respostas e formação de grupos de estudo.
+🤝 <strong>Foco:</strong> desenvolver uma plataforma para simular a conexão entre estudantes, o compartilhamento de conteúdos acadêmicos e a colaboração nos estudos.
 </p>
 
 <p>
-<strong>Tecnologias exploradas:</strong><br>
-🗄️ Microsoft SQL Server • 💾 SQL • 🛠️ SSMS • 🐙 Git e GitHub
+<strong>Tecnologias utilizadas:</strong><br>
+🗄️ SQL Server • 💾 SQL • 🖥️ SSMS • 🔧 Git e GitHub
 </p>
 
 <p>
-📁 <strong>Possui seu próprio repositório: https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes.</strong>
+📁 <strong>Repositório próprio:</strong>
+<a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">Sistema-de-Rede-Sociais-para-estudantes</a>.
 </p>
 
-<p>🚧 <strong>Em desenvolvimento</strong></p>
+🚧 <strong>Em desenvolvimento</strong>
 
+<p>
 <a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">
 <img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
+</p>
 
 </td>
 
