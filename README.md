@@ -130,7 +130,7 @@ Projeto acadêmico desenvolvido em equipe, simulando uma <strong>rede social vol
 </p>
 
 <p>
-📁 <strong>Possui repositório próprio.</strong>
+📁 <strong>Possui repositório próprio</strong>
 </p>
 
 🚧 <strong>Em desenvolvimento</strong>
@@ -161,7 +161,7 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 </p>
 
 <p>
-📁 <strong>Possui repositório próprio.</strong>
+📁 <strong>Possui repositório próprio</strong>
 </p>
 
 <a href="https://github.com/AliceGeekGirl/monitoramento-de-temperatura.">
