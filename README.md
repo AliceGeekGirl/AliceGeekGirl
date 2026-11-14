@@ -114,29 +114,28 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 <td width="50%" valign="top">
 
-<h3>🌙 ProofFile</h3>
+<h3>🌐 UniConnect</h3>
 
 <p>
-Projeto desenvolvido para um <strong>hackathon</strong>, explorando uma solução para registrar e verificar a integridade de contratos.
+Projeto desenvolvido em equipe para a faculdade, simulando uma plataforma acadêmica que busca conectar estudantes e incentivar a colaboração nos estudos.
 </p>
 
 <p>
-🔐 <strong>Foco:</strong> criar uma forma de registrar um contrato e permitir que sua integridade seja verificada posteriormente.
+🤝 <strong>Foco:</strong> desenvolver uma plataforma com funcionalidades de interação entre estudantes, compartilhamento de materiais, perguntas e respostas e formação de grupos de estudo.
 </p>
 
 <p>
 <strong>Tecnologias exploradas:</strong><br>
-🐍 Python • 🗄️ PostgreSQL • 🌐 Web • ⛓️ Solana
+🗄️ Microsoft SQL Server • 💾 SQL • 🛠️ SSMS • 🐙 Git e GitHub
 </p>
 
 <p>
-📁 <strong>Desenvolvido dentro do repositório
-<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">Projects-and-Activities</a>.</strong>
+📁 <strong>Possui seu próprio repositório.</strong>
 </p>
 
 <p>🚧 <strong>Em desenvolvimento</strong></p>
 
-<a href="https://github.com/AliceGeekGirl/Projects-and-Activities/tree/main/ProofFile">
+<a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">
 <img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -183,32 +182,19 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="33%">
 
-<h3>🌐 UniConnect</h3>
-
-<p>
-Projeto acadêmico desenvolvido em equipe, propondo uma simulação de rede social voltada à comunidade universitária, com foco na interação e colaboração entre estudantes.
-</p>
+<h3>💗 Projects-and-Activities</h3>
 
 <p>
-🔐 <strong>Foco:</strong> desenvolver uma aplicação que simule funcionalidades como publicações, curtidas, comentários, perguntas e respostas, grupos de estudo e compartilhamento de materiais acadêmicos.
+Repositório que reúne <strong>projetos, estudos, exercícios e experimentos</strong> desenvolvidos ao longo da minha jornada em tecnologia.
 </p>
 
-<p>
-<strong>Tecnologias:</strong><br>
-🗄️ SQL Server • 💻 SQL • 🛠️ SSMS • 🔀 Git e GitHub
-</p>
-
-<p>
-📁 <strong>Possui seu próprio repositório.</strong>
-</p>
-
-<p>🚧 <strong>Em desenvolvimento</strong></p>
-
-<a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">
-<img src="https://img.shields.io/badge/Ver%20projeto-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
+<img src="https://img.shields.io/badge/Acessar-FF69B4?style=for-the-badge&logo=github&logoColor=white">
 </a>
+
+</td>
 
 </td>
 
