@@ -130,8 +130,7 @@ Projeto acadêmico desenvolvido em equipe, simulando uma <strong>rede social vol
 </p>
 
 <p>
-📁 <strong>Repositório próprio:</strong>
-<a href="https://github.com/AliceGeekGirl/Sistema-de-Rede-Sociais-para-estudantes">Sistema-de-Rede-Sociais-para-estudantes</a>.
+📁 <strong>Possui repositório próprio.</strong>
 </p>
 
 🚧 <strong>Em desenvolvimento</strong>
@@ -162,8 +161,7 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 </p>
 
 <p>
-📁 <strong>Repositório próprio:</strong>
-<a href= "https://github.com/AliceGeekGirl/Monitoramento-de-temperatura.">Monitoramento-de-Temperatura</a>.
+📁 <strong>Possui repositório próprio.</strong>
 </p>
 
 <a href="https://github.com/AliceGeekGirl/monitoramento-de-temperatura.">
