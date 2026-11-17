@@ -70,7 +70,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ---
 
-### 💻 Tecnologias
+## 💻 Tecnologias
 
 ### Linguagens
 
@@ -104,7 +104,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ---
 
-## 🚀 Projetos
+### 🚀 Projetos
 
 ### 🌙 Projetos em Destaque
 
