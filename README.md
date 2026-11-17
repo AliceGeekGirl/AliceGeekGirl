@@ -51,7 +51,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ---
 
-### 🌙 Atualmente
+## 🌙 Atualmente
 
 <div align="center">
 
@@ -70,7 +70,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ---
 
-## 💻 Tecnologias
+### 💻 Tecnologias
 
 ### Linguagens
 
