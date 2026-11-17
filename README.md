@@ -301,7 +301,7 @@ Grande parte do meu GitHub também representa aquilo que estou aprendendo durant
 <br>
 
 - Arduino IDE e microcontroladores (Arduino / ESP32)
-- Leitura de sensores e controle de atuadores
+- Leitura de sensores e controle de LEDs
 - Prototipagem de circuitos em protoboard
 
 </details>
