@@ -39,7 +39,7 @@
 
 ---
 
-## 💗 Sobre mim
+### 💗 Sobre mim
 
 Sou estudante de **Engenharia de Computação**, apaixonada por tecnologia, aprendizado e resolução de problemas.
 
@@ -51,7 +51,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 
 ---
 
-## 🌙 Atualmente
+### 🌙 Atualmente
 
 <div align="center">
 
