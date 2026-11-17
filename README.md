@@ -188,10 +188,10 @@ Interface web (Dashboard) desenvolvida para um projeto de <strong>Monitoramento 
 
 <td width="33%">
 
-<h3>💗 Projects-and-Activities</h3>
+<h3>💗 Mini-Projects</h3>
 
 <p>
-Repositório que reúne <strong>projetos, estudos, exercícios e experimentos</strong> desenvolvidos ao longo da minha jornada em tecnologia.
+Repositório dedicado a <strong>pequenos projetos práticos, protótipos e experimentos</strong> envolvendo programação e eletrônica.
 </p>
 
 <a href="https://github.com/AliceGeekGirl/Projects-and-Activities">
@@ -204,10 +204,10 @@ Repositório que reúne <strong>projetos, estudos, exercícios e experimentos</s
 
 <td width="33%">
 
-<h3>🎓 College-Projects-and-Activities</h3>
+<h3>🎓 College-Projects</h3>
 
 <p>
-Repositório voltado aos <strong>projetos e atividades desenvolvidos durante a graduação</strong>.
+Repositório centralizado com <strong>atividades práticas, laboratórios, desafios e projetos acadêmicos</strong> desenvolvidos durante a graduação.
 </p>
 
 <a href="https://github.com/AliceGeekGirl/College-Projects-and-Activities">
@@ -250,7 +250,6 @@ Grande parte do meu GitHub também representa aquilo que estou aprendendo durant
 - Estruturas de controle
 - Funções
 - Programação orientada a objetos
-- Princípios SOLID
 - Scripts e pequenos projetos
 
 </details>
@@ -274,12 +273,11 @@ Grande parte do meu GitHub também representa aquilo que estou aprendendo durant
 
 <br>
 
-- SQL
-- Modelagem
-- Relacionamentos
-- Chaves primárias e estrangeiras
-- `JOIN`
-- PostgreSQL
+- SQL (DDL/DML) e T-SQL
+- Modelagem relacional
+- Relacionamentos, chaves primárias e estrangeiras
+- `JOIN`, Views, Stored Procedures e Triggers
+- PostgreSQL e SQL Server
 
 </details>
 
@@ -291,10 +289,20 @@ Grande parte do meu GitHub também representa aquilo que estou aprendendo durant
 - HTML
 - CSS
 - JavaScript
-- DOM
-- Eventos
-- APIs
-- Desenvolvimento Front-end
+- DOM e Eventos
+- Consumo de APIs REST
+- React e desenvolvimento Front-end
+
+</details>
+
+<details>
+<summary><strong>⚡ Eletrônica & Embarcados</strong></summary>
+
+<br>
+
+- Arduino IDE e microcontroladores (Arduino / ESP32)
+- Leitura de sensores e controle de atuadores
+- Prototipagem de circuitos em protoboard
 
 </details>
 
@@ -399,6 +407,10 @@ Se quiser conversar sobre tecnologia, projetos, estudos ou oportunidades, fique 
 
 <a href="https://github.com/AliceGeekGirl">
 <img src="https://img.shields.io/badge/GitHub-FF69B4?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.instagram.com/alice_na_tech/">
+<img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 <br>
