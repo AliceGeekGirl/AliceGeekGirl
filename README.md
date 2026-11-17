@@ -99,6 +99,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 ![Git](https://img.shields.io/badge/Git-0D0D12?style=for-the-badge&logo=git&logoColor=FF69B4)
 ![GitHub](https://img.shields.io/badge/GitHub-0D0D12?style=for-the-badge&logo=github&logoColor=FF69B4)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0D0D12?style=for-the-badge&logo=visual-studio-code&logoColor=FF69B4)
+![Arduino IDE](https://img.shields.io/badge/ARDUINO%20IDE-0D1117?style=for-the-badge&logo=arduino&logoColor=F38BA8)
 
 </div>
 
