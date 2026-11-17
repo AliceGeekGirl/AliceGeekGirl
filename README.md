@@ -63,6 +63,7 @@ Minha jornada na tecnologia ainda está no começo, e este GitHub faz parte dela
 | ⚙️ | Estudando **C++ e Estruturas de Dados** |
 | 🗄️ | Aprendendo e praticando **SQL e bancos de dados** |
 | 🌐 | Desenvolvendo conhecimentos em **Front-end** |
+| ⚡ | Prototipando circuitos e projetos de **Eletrônica com Microcontroladores** |
 | 🚀 | Criando projetos para transformar teoria em prática |
 
 </div>
